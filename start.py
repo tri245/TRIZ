@@ -15,10 +15,10 @@ for char in w1:
     sys.stdout.write(char)
     sys.stdout.flush()
 sleep(0.5)
-print("Type one of the following numbers to launch that spammmer")
+print(".")
 print("1 : Image Spammer - Spam random images in a selected folder")
-print("2 : Insult Spammer - Picks insults offline and spams them")
-print("3 : Text Spammer - Write your own text to spam")
+print("2 : trinho")
+print("3 : trinho")
 
 in_pick = float(input("Select a bot: "))
 
